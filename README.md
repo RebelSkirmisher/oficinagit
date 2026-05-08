@@ -1,3 +1,2 @@
-odeio cubuntu
-dor de cabeça
-oi
+alguns comandos git
+
