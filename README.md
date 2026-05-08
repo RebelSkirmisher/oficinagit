@@ -1,3 +1,3 @@
-alguns comandos git <br \>
-referência: <br \>
+alguns comandos git <br />
+referência: <br />
 https://rbeninca.github.io/git/
